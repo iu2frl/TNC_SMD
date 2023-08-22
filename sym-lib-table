@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Schema_FoxDigi-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Schema_FoxDigi-eagle-import.kicad_sym")(options "")(descr ""))
+)
